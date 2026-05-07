@@ -1,8 +1,12 @@
 # ESPY:
 The main mcu is the esp32-P4 that allows fast lane data transmission allowing the camera and display option .
-This project contains 4 layers 2 for signals 1 for 3V3 and one for Ground 
-The reason I chose the p4 is because it's very good for cameras 
-feel free to grab gerber file and to print them yourself 
+This project contains 4 layers 2 for signals 1 for 3V3 and one for Ground .  
+
+
+The reason I chose the p4 is because it's very good for cameras .
+
+
+-- feel free to grab gerber file and to print them yourself --
 # Schematic :
 <img width="1070" height="683" alt="image" src="https://github.com/user-attachments/assets/4238709e-3d5d-4704-bd3a-b9a078da4c18" />
 # Routing :
