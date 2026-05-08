@@ -9,7 +9,8 @@ The reason I chose the p4 is because it's very good for cameras .
 -- feel free to grab gerber file and to print them yourself --
 # Schematic :
 
-<img width="1070" height="683" alt="image" src="https://github.com/user-attachments/assets/4238709e-3d5d-4704-bd3a-b9a078da4c18" />
+<img width="940" height="805" alt="image" src="https://github.com/user-attachments/assets/8ac4a090-2cda-40de-8317-5ce75525b997" />
+
 
 # Routing :
 
