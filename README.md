@@ -14,4 +14,9 @@ The reason I chose the p4 is because it's very good for cameras .
 # 3D overview : 
 <img width="779" height="429" alt="image" src="https://github.com/user-attachments/assets/687e9d95-7765-4e05-996b-8aa09d03b210" />
 
+# BOM ( visual ) 
+<img width="548" height="736" alt="image" src="https://github.com/user-attachments/assets/8c8a9e63-5f12-4087-908e-1fa4db22ceef" />
+Total:192$
+
+
 I hope you like this project 
